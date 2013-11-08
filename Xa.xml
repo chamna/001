@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<R>
+	<Key>fish</Key>
+	<Value>I am testing.</Value>
+
+	<Key>sss</Key>
+	<Value>vvvv</Value>
+
+	<Key>animal</Key>
+	<Value>Monkey</Value>
+
+	<Key>aaaaa</Key>
+	<Value>bbbbb</Value>
+
+	<Key>fish</Key>
+	<Value>value</Value>
+
+</R>
